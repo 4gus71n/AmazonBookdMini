@@ -1,0 +1,2 @@
+# AmazonBookdMini
+Simplified code challenge
